@@ -13,3 +13,7 @@ d.innerText = 'Olá'*/
 //d.style.background = 'blue'
 var d = window.document.querySelector("div#msg")
 d.style.background = 'blue'
+var h = document.getElementById('h1')
+h.innerHTML = 'Aqui é o JavaCript mandando ver'
+h.style.textAlign = 'center'
+
