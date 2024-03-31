@@ -15,3 +15,9 @@ Repetições
 For
 Aprendendo a usar o Depurador(F5)
 
+# Aula 14ex
+Fazendo exercicios com o professor.
+Dicas:
+ .Para emoticon no JS use \u{codigo}
+ .recomenda usa let em vez de var. let é mais atual
+
